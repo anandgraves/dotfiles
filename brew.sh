@@ -50,7 +50,7 @@ brew install woff2
 # Install other useful binaries.
 brew install git
 brew install imagemagick --with-webp
-brew install lynx
+brew install elinks
 brew install testssl
 brew install tree
 
