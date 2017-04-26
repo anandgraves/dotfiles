@@ -58,6 +58,7 @@ brew install git
 brew install fzf
 brew install the_silver_searcher
 brew install z
+brew install jid
 brew install httpie
 brew install ranger
 brew install imagemagick --with-webp
