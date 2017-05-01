@@ -33,7 +33,7 @@ brew install woff2
 # Brew packages for OSX
 ###################################################
 
-brew install node
+# brew install node
 brew install wget --with-iri
 brew install git
 brew cask install iterm2
