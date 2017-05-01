@@ -22,6 +22,7 @@ brew install imagemagick --with-webp
 brew install elinks
 brew install testssl
 brew install tree
+brew install wifi-password
 
 # Install font tools.
 # brew tap bramstein/webfonttools
