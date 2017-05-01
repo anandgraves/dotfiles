@@ -6,4 +6,3 @@ npm install -g trash-cli
 npm install -g nativefier
 npm install -g svgo
 npm install -g npm-check
-npm install -g wifi-password
