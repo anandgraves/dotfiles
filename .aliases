@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Show all available aliases, brew packages and global npm packages
+alias showtools='npm list -g --depth 0; echo ""; compgen -a | column -x; echo ""; brew list'
+
 # Easier navigation
 alias ..="cd .."
 alias ...="cd ../.."
