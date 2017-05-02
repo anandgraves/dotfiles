@@ -39,6 +39,7 @@ brew install wget --with-iri
 brew install git
 brew cask install iterm2
 brew install python
+brew install gnupg2
 
 # Install GNU core utilities (those that come with macOS are outdated).
 # Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
