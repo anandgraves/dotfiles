@@ -11,6 +11,7 @@ brew upgrade
 ###################################################
 
 # Mac App Store command line interface (https://github.com/mas-cli/mas)
+brew install tmux
 brew install mas
 brew install fzf
 brew install the_silver_searcher
